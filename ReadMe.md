@@ -1,6 +1,6 @@
 ##4mCi6mA-BGC
 
-Identification of DNA N4-methylcytosine sites and N6-methyladenine sites through elastic net and bidirectional gating recurring unit with convolutional neural network
+Identification of DNA N4-methylcytosine sites and N6-methyladenine sites through elastic net and bidirectional gated recurrent unit with convolutional neural network
 
 ###4mCi6mA-BGC uses the following dependencies:
  * Python 3.6
